@@ -1,0 +1,5 @@
+C:\AAALL stuffs\AAAFontys\32\Euler\csharp\multiplesof5and3\highestprime\bin\Debug\highestprime.exe.config
+C:\AAALL stuffs\AAAFontys\32\Euler\csharp\multiplesof5and3\highestprime\bin\Debug\highestprime.exe
+C:\AAALL stuffs\AAAFontys\32\Euler\csharp\multiplesof5and3\highestprime\bin\Debug\highestprime.pdb
+C:\AAALL stuffs\AAAFontys\32\Euler\csharp\multiplesof5and3\highestprime\obj\Debug\highestprime.exe
+C:\AAALL stuffs\AAAFontys\32\Euler\csharp\multiplesof5and3\highestprime\obj\Debug\highestprime.pdb

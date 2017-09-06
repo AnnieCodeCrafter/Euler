@@ -1,0 +1,6 @@
+C:\AAALL stuffs\AAAFontys\32\Euler\csharp\multiplesof5and3\multiplesof5and3\obj\Debug\multiplesof5and3.csprojResolveAssemblyReference.cache
+C:\AAALL stuffs\AAAFontys\32\Euler\csharp\multiplesof5and3\multiplesof5and3\bin\Debug\multiplesof5and3.exe.config
+C:\AAALL stuffs\AAAFontys\32\Euler\csharp\multiplesof5and3\multiplesof5and3\bin\Debug\multiplesof5and3.exe
+C:\AAALL stuffs\AAAFontys\32\Euler\csharp\multiplesof5and3\multiplesof5and3\bin\Debug\multiplesof5and3.pdb
+C:\AAALL stuffs\AAAFontys\32\Euler\csharp\multiplesof5and3\multiplesof5and3\obj\Debug\multiplesof5and3.exe
+C:\AAALL stuffs\AAAFontys\32\Euler\csharp\multiplesof5and3\multiplesof5and3\obj\Debug\multiplesof5and3.pdb
